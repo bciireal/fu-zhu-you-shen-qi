@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
   .container {
     display: flex;
     justify-content: center;
@@ -11,10 +11,10 @@
     font-size: 6rem;
     background-image: linear-gradient(to right in hsl longer hue, red, red);
   }
-</style>
+</style> -->
 
-<div class="container">
-  <div class="colorful-banner-text">服主有神器</div>
+<div style="display:flex;justify-content:center;">
+  <div style="color:transparent;background-clip:text;display:inline-block;font-size:6rem;background-image:linear-gradient(to right in hsl longer hue, red, red);">服主有神器</div>
 </div>
 
 # WIP
